@@ -3,7 +3,7 @@
   <PropertyGroup>
 	  <StartWorkingDirectory>$(MSBueldProjectDirectory)</StartWorkingDirectory>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
