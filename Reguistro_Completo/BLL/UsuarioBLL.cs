@@ -20,7 +20,7 @@ namespace Reguistro_Completo.BLL
 
         private static bool Insertar(Usuario usuario)
         {
-            bool paso = false;
+            bool paso = true;
             Contexto contexto = new Contexto();
             try
             {

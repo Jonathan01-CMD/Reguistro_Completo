@@ -23,7 +23,6 @@ namespace Proyecto_Registro.UI
         private void Limpiar()
         {
             errorProvider1.Clear();
-            bool paso = false;
             idnumericUpDown.Value = 0;
             DescripciontextBox.Clear();
             ActivocheckBox.Checked = false;

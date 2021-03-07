@@ -69,7 +69,7 @@ namespace Reguistro_Completo.BLL
 
         public static bool Eliminar(int id)
         {
-            bool paso = false;
+            bool paso = true;
             Contexto contexto = new Contexto();
             try
             {
