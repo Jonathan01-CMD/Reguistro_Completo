@@ -19,5 +19,10 @@ namespace Reguistro_Completo.UI
         {
 
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
